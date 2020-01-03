@@ -99,6 +99,17 @@
     align-items: center;
 }
 
+.copyright {
+    background: #34495e;
+    justify-content: center;
+    align-content: center;
+}
+
+.copyright p {
+    font-size: 15px;
+    color: #fff;
+}
+
 @media screen and (max-width:800px) {
     .show-menu-btn,.hide-menu-btn {
         display: block;
